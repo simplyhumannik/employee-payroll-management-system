@@ -1,0 +1,19 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+------------------------------------------------
+Employee ID		:  101
+Salary Of		  Aug-2024
+Generated on		:  14:08:24
+------------------------------------------------
+Total Days		:  31
+Total Present		:  30
+Total Absent		:  1
+Convence		:  Rs.4000
+Medical		:  Rs.2000
+PF		:  Rs.2000
+Gross Payment		:  Rs.50000
+Net Salary		:  RS.48387.1
+------------------------------------------------
+This is computer generated slip, not 
+required any signature
+
